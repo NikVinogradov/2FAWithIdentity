@@ -1,0 +1,6 @@
+@_2FAWithIdentity_HostAddress = http://localhost:5016
+
+GET {{_2FAWithIdentity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
